@@ -5,7 +5,18 @@ print('"Quotes" within strings')
 print("hello" + " world")
 
 greeting = "hi"
-name = input("Please enter your name: ")
+#name = input("Please enter your name: ")
 # comment test
+name = "Garland"
+
 
 print(greeting + " " + name)
+
+age = 24
+print(age)
+
+print(type(greeting))
+print(type(age))
+
+age = "2 years"
+print(type(age))

@@ -124,7 +124,6 @@
       <list>
         <item itemvalue="Python.strings" />
         <item itemvalue="Python.escapechar" />
-        <item itemvalue="Python.helloworld" />
       </list>
     </recent_temporary>
   </component>
@@ -170,22 +169,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="845" y="383" width="544" height="274" key="#Notifications/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1593880229692" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1593882880001">
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594423950952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1593882880001" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1593882880001">
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1594423950952" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1594424435101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1593882880001" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1593882880001">
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1594424435101" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1594424435101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1593882880001" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1593882880001">
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1594424435101" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1594424435100">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1593882880001" />
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1594424435100" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1594424435101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1594424435101" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1593880360410">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
